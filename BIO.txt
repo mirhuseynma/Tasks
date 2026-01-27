@@ -1,3 +1,5 @@
 Ad,soyad: Abdullazade Mirhuseyn
 Yash: 23
 Qrup nomresi: PA202
+git checkout main!
+salam
